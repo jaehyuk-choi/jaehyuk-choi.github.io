@@ -1,11 +1,32 @@
 export const experiences = [
 	{
-		company: '',
-		time: '',
-		title: '',
-		location: '',
+		company: 'BlackRock',
+		time: 'June 2025 - August 2025',
+		title: 'Aladdin Data Division - Summer Analyst',
+		location: 'Edinburgh, Scotland',
 		description: '',
 	},
+	{
+		company: 'BlackRock',
+		time: 'April 2024',
+		title: 'Aladdin Data Division - Spring Intern',
+		location: 'Edinburgh, Scotland',
+		description: '',
+	},
+	{
+		company: 'Boston Consulting Group',
+		time: 'May 2023 - July 2023',
+		title: 'BCG X - Research Analyst',
+		location: 'Seoul, South Korea',
+		description: '',
+	},
+	{
+		company: 'BMW Group',
+		time: 'January 2023 - May 2023',
+		title: 'IT Division (FG-AP-12) - Data Analyst Intern',
+		location: 'Seoul, South Korea',
+		description: '',
+	}
 	// {
 	// 	company: 'Radium Institute (Institut du Radium)',
 	// 	time: '1914 - 1934',
@@ -17,12 +38,19 @@ export const experiences = [
 
 export const education = [
 	{
-		school: '',
-		time: '',
-		degree: '',
-		location: '',
+		school: 'University of Toronto',
+		time: '2024 Fall - Present',
+		degree: 'Full year Exchange Student',
+		location: 'Toronto, Canada',
 		description: '',
 	},
+	{
+		school: 'University of Edinburgh',
+		time: '2020 - Present',
+		degree: 'BSc (Hons) Artificial Intelligence',
+		location: 'Edinburgh, Scotland',
+		description: '',
+	}
 	// {
 	// 	school: 'University of Paris',
 	// 	time: '1891 - 1895',
