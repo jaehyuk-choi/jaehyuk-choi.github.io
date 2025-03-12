@@ -1,7 +1,7 @@
 export const profile = {
-	fullName: 'Your Name',
+	fullName: 'Jaehyuk Choi',
 	title: '',
-	institute: '',
+	institute: 'University of Edinburgh',
 	author_name: '', // Author name to be highlighted in the papers section
 	research_areas: [
 		// { title: 'Physics', description: 'Brief description of the research interest', field: 'physics' },
